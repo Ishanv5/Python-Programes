@@ -1,5 +1,5 @@
-# while loop
-i = 1
-while i<=10:
+# while loop 
+i = 10
+while i>=1:
     print("Ishan-Software")
-    i = i + 1
+    i = i - 1
