@@ -1,0 +1,1 @@
+x = int(input("Enter age "))if x>=18:    print("Eligible for driving....")else:    print("Not Eligible for driving...")
