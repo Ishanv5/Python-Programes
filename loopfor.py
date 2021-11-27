@@ -1,0 +1,1 @@
+list1 = ["Ishan", "Sujal", "Meet", "Ansh"]for item in list1:    print(item)     
