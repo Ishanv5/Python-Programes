@@ -1,0 +1,1 @@
+# f = open("ishan.txt", "a")# a = f.write("Learn OOPS\n")# print(a)# f.close()# f = open("ishan.txt", "w")# a = f.write("Learn OOPS\n")# print(a)# f.close()# Handle read & write bothf = open("ishan.txt", "r+")print(f.read())f.write("Thankyou")
