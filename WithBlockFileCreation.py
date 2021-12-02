@@ -1,0 +1,1 @@
+with open("ishan.txt") as f:    a = f.read(30)    print(a)# f = open("ishan.txt")# print(f.readline())#  f.close()
