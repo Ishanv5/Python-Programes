@@ -1,0 +1,1 @@
+# def print2(str1):#     print("This is " + str1)### print2("ishan")def factorial(n):    passnumber = int(input("Enter nos "))print(factorial(number))
