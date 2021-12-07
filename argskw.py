@@ -1,0 +1,1 @@
+# def function_name_print(a, b, c, d, e):#     print(a, b, c, d, e)def funargs(*args, **kwargs):    print(type(args))    print(args[0])    for item in args:        print(item)# function_name_print("Ishan", "Sujal", "Meet", "Ansh", "Nikita")har = ["Ishan", "Sujal", "Meet", "Ansh", "Nikita"]funargs(*har)
