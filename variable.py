@@ -1,13 +1,10 @@
-n1=2
-print(n1)
-n1=4
-print(n1)
-name="Ishan"
-print(name)
-print(type(name))
-user_name="Ishan512"  #Snake case writing
-userName="Ishanv" #Camel Case writing
-name, age="ishan","18"
-print("hello " + name + " your age is " + age)
-x=y=z=10
-print(x+y+z)
+first_name='Ishan'
+last_name='Vaghela'
+print(type(first_name))
+print("Hello This is your Bro..." + first_name)
+full_name = first_name + " "+last_name
+print(full_name)
+age=21
+age+=1
+print(age)
+print(type(age))

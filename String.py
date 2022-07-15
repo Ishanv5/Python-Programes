@@ -1,1 +1,1 @@
-mystr = "Ishan learn coding skills "print(mystr[0:18])print(mystr[0:5:2])print(len(mystr))print(mystr.count("o"))print(mystr.endswith("coding"))print(mystr.find("learn"))print(mystr.lower())print(mystr.upper())print(mystr.replace("learn", "enhance"))
+name = "Bro"print(len(name)) #technically this is a functionprint(name.find("o"))print(name.capitalize())print(name.upper())print(name.lower())print(name.isdigit())print(name.isalpha())print(name.count("o"))print(name.replace("o","a"))print(name*3)
