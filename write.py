@@ -1,0 +1,1 @@
+text="Hi this is again Ishan Vaghela from Ishan Software....."with open('test.txt.txt','w') as file:    file.write(text)

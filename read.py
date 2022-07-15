@@ -1,0 +1,1 @@
+# with open('C:\\Users\\ishan\\Desktop\\Python\\test.txt.txt') as file:#     print(file.read())# print(file.closed)try:    with open('test.txt.txt') as file:        print(file.read())except FileNotFoundError:    print("That file was not found :(")

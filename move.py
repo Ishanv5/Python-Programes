@@ -1,0 +1,1 @@
+import ossource = "C:\\Users\\ishan\\Desktop\\demo.txt"destination = "C:\\Users\\ishan\\Desktop\\python\\demo.txt"try:    if os.path.exists(destination):        print("There is already a file there")    else:        os.replace(source,destination)        print(source+" was moved")except FileNotFoundError:    print(source+" was not found")
